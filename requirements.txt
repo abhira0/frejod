@@ -1,0 +1,4 @@
+requests
+wget
+beautifulsoup4
+termcolor
